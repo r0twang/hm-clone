@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2015
+# Visual Studio 2017
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hotline clone", "hotline clone.csproj", "{DC5C041A-4574-41BC-F40A-6F78C8B78160}"
 EndProject
 Global
